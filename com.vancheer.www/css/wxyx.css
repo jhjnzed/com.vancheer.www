@@ -296,7 +296,7 @@
     margin: 0 4px;
 }
 
-.sjjs li:nth-child(4) {
+.sjjs li:nth-child(5) {
     background-color: #fff;
     border: 2px solid #cc0000;
     box-sizing: border-box;
@@ -306,7 +306,6 @@
     width: 100%;
     position: relative;
     padding: 0 10px;
-    padding-top: 50px;
     padding-bottom: 50px;
     box-sizing: border-box;
     text-align: center;
@@ -354,7 +353,7 @@
     height: 40px;
     line-height: 40px;
     text-align: center;
-    color: #cc0000;
+    color: #fff;
     box-shadow: 0 15px 30px rgba(0, 0, 0, .2);
     border: 1px solid #cc0000;
     font-size: 16px;
@@ -362,12 +361,13 @@
     padding: 0 100px;
     border-radius: 100px;
     background-color: #fff;
-    background-image: url(../image/icon_goutong.png);
+    background-image: url(../image/icon_goutong_hover.png);
     background-position: 95% center;
     background-repeat: no-repeat;
     background-size: 8%;
     padding: 0 40px;
     box-sizing: border-box;
+    background-color: #cc0000
 }
 
 
@@ -416,6 +416,80 @@
 }
 
 
-.lztxx{
-    width: 100%;    padding: 50px 5%; box-sizing: border-box;
+.lztxx {
+    width: 100%;
+    padding: 50px 5%;
+    box-sizing: border-box;
+    background-color: #f0f0f0;
+}
+
+.lztxx img {
+    width: 100%;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.xgkb {
+    width: 100%;
+    height: 30px;
+    overflow: hidden;
+}
+
+
+
+.mfhq {
+    width: 100%;
+    text-align: center;
+}
+
+.mfhq a {
+    margin: 15px 8px;
+    padding: 0 20px;
+    font-size: 14px;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #666;
+    border: 1px solid #ccc;
+}
+
+.ybht {
+    width: 100%;
+    height: 100px;
+
+}
+
+
+
+.wxdt {
+    width: 100%;
+    position: relative;
+}
+
+.wxdt img {
+    width: 100%;
+}
+
+.wxdt h5 {
+    position: absolute;
+    left: 50%;
+    margin-left: -150px;
+    width: 300px;
+    top: 50%;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+    color: #fff;
+    margin-top: -20px;
+    text-align: center;
+}
+
+
+.gsqa {
+    width: 100%;
+    text-align: center;
+    line-height: 26px;
+    color: #333;
+    font-size: 14px;
 }
