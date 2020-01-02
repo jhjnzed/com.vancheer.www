@@ -1,0 +1,421 @@
+.title {
+    position: relative;
+    width: 100%;
+    height: 85px;
+    border-top: #da251d solid 3px;
+}
+
+.title-1 {
+    position: absolute;
+    left: 10px;
+    top: 8px;
+}
+
+.title-2 {
+    position: absolute;
+    display: block;
+    right: 10px;
+    top: 22px;
+}
+
+.title-1 img {
+    height: 20px;
+    vertical-align: middle;
+}
+
+.title-2 img {
+    width: 30px;
+    display: block;
+}
+
+.wqdh {
+    position: absolute;
+    left: 10px;
+    top: 42px;
+    width: 180px;
+}
+
+.wqdh span {
+    display: block;
+}
+
+.wqdh s {
+    color: #ff0000;
+    font-size: 13px;
+    font-weight: 700;
+    padding-left: 6px;
+}
+
+.wbgd {
+    position: fixed;
+    bottom: 0px;
+    z-index: 999;
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    color: #fff;
+    background-image: linear-gradient(to bottom, #d9211d, #ae0101);
+}
+
+.wbgd span {
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    border-right: 1px solid #e1a09e;
+}
+
+.wbgd img {
+    position: absolute;
+    left: 17.8%;
+    top: 30%;
+}
+
+
+.tpjs {
+    width: 100%;
+    padding: 25px 0 25px 10px;
+    box-sizing: border-box;
+    background-color: #f2f2f2;
+}
+
+.tpjs ul {
+    width: 100%;
+    overflow: hidden;
+}
+
+.tpjs li {
+    width: 50%;
+    float: left;
+    margin-bottom: 15px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+}
+
+.tpjs-1 {
+    display: block;
+    width: 100%;
+}
+
+.tpjs-1 img {
+    width: 100%;
+}
+
+.tpjs-1 h3 {
+    padding: 0 10px;
+    padding-top: 5px;
+    font-size: 14px;
+    height: 41px;
+    box-sizing: border-box;
+    color: #666;
+}
+
+.tpjs-1 span {
+    color: #999;
+    height: 32px;
+    padding: 0px 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: block;
+}
+
+
+.kbg {
+    margin-top: 35px;
+    width: 100%;
+    height: 35px;
+    background-color: #f2f2f2;
+}
+
+
+
+.gddx-1 {
+    position: absolute;
+    top: 32%;
+    right: 10px;
+    background-image: url(../image/line5.jpg);
+    background-position: left center;
+    background-repeat: no-repeat;
+    font-size: 12px;
+    color: #000;
+    padding-left: 20px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.jdal {
+    position: relative;
+    width: 100%;
+    font-size: 20px;
+    height: 42px;
+    padding: 0 0 20px 10px;
+    box-sizing: border-box;
+    background-color: #f2f2f2;
+}
+
+.jdal h3 {
+    float: left;
+    line-height: 42px;
+}
+
+.jdal-1 {
+    display: block;
+    width: 39px;
+    height: 15px;
+    background-image: url(../image/nimg39_left.jpg);
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 58px;
+    top: 32%;
+}
+
+.jdal-2 {
+    display: block;
+    width: 39px;
+    height: 15px;
+    background-image: url(../image/nimg39_right.jpg);
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 16px;
+    top: 32%;
+}
+
+
+
+
+.cgqy {
+    padding: 0;
+    width: 100%;
+    background: #f2f2f2;
+    height: auto;
+
+}
+
+
+.nyqk {
+    background: #ffffff;
+    margin-left: 10px;
+    height: auto;
+}
+
+.nyqk ul {
+    padding: 15px 10px 20px;
+}
+
+.nyqk li {
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    overflow: hidden;
+    background-image: url(../upload/ico6.png);
+    background-position: left center;
+    background-repeat: no-repeat;
+    padding-left: 18px;
+}
+
+.lxdh {
+    background: #262930;
+    padding: 25px 10px 10px;
+    box-sizing: border-box;
+}
+
+.lxdh ul {
+    width: 100%;
+}
+
+
+.lxdh-1 {
+    width: 100%;
+    padding: 10px 0 25px;
+}
+
+.lxdh-1 h3 {
+    font-size: 18px;
+    color: #fff;
+    padding-bottom: 5px;
+}
+
+.lxdh-1 p {
+    font-size: 13px;
+    line-height: 24px;
+    color: #67696c;
+}
+
+
+
+
+/* 上面不动  下面 重改 */
+
+.sjjs {
+    width: 100%;
+    position: relative;
+    padding: 0 10px;
+    box-sizing: border-box;
+    overflow-x: auto;
+}
+
+.sjjs img {
+    width: 100%;
+    position: relative;
+    padding: 0 10px;
+    box-sizing: border-box;
+    overflow-x: auto;
+    padding-top: 50px;
+}
+
+.sjjs a {
+    color: #333;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    line-height: 28px;
+    padding: 10px 0;
+    padding-top: 30px;
+}
+
+.sjjs a>p {
+    font-size: 12px;
+    color: #333;
+    line-height: 22px;
+}
+
+.sjjs ul {
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 80px;
+}
+
+.sjjs ul>li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #cc0000;
+    margin: 0 4px;
+}
+
+.sjjs li:nth-child(4) {
+    background-color: #fff;
+    border: 2px solid #cc0000;
+    box-sizing: border-box;
+}
+
+.jtgwbl {
+    width: 100%;
+    position: relative;
+    padding: 0 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.yjys {
+    background-color: #dedde2;
+    padding-top: 50px;
+    padding: 50px 0 30px;
+}
+
+.jtgwbl h2 {
+    font-size: 22px;
+    height: auto;
+    padding-bottom: 50px;
+    line-height: 24px;
+}
+
+.hygbj {
+
+    background-color: #f0f0f0;
+
+
+}
+
+.jtgwbl span {
+    width: 50px;
+    height: 1px;
+    background: #DA251D;
+    border-radius: 100px;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    margin-left: -25px;
+}
+
+.jtgwbl p {
+    width: 100%;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.jtgwbl a {
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #cc0000;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, .2);
+    border: 1px solid #cc0000;
+    font-size: 16px;
+    margin: 15px 0;
+    padding: 0 100px;
+    border-radius: 100px;
+    background-color: #fff;
+    background-image: url(../image/icon_goutong.png);
+    background-position: 95% center;
+    background-repeat: no-repeat;
+    background-size: 8%;
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+
+
+.yddtp {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    box-sizing: border-box;
+    background-color: #dedde2;
+    padding-bottom: 50px;
+}
+
+.yddtp ul {
+    width: 100%;
+    padding-left: 10px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.yddtp li {
+    box-sizing: border-box;
+    width: 50%;
+    margin: 15px 0 10px 0;
+    float: left;
+    padding-right: 10px;
+}
+
+.yddtp-1 {
+    display: block;
+}
+
+.yddtp-1 img {
+    width: 100%;
+}
+
+
+.wzjs,
+.dejdx {
+    background-image: url(../image/dot_bg.png);
+    background-color: #333;
+}
+
+.wzjs {
+
+    width: 100%;
+}
+
+
+.lztxx{
+    width: 100%;    padding: 50px 5%; box-sizing: border-box;
+}
